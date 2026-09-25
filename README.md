@@ -1,3 +1,5 @@
 # Git in VS Code
 
-Code Change
+Code Change 
+
+Add new line
